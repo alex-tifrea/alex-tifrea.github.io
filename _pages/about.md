@@ -19,7 +19,7 @@ a BSc in Computer Engineering at Politehnica University Bucharest.
 For my Master's degree, I was the recipient of a scholarship awarded by ETH Zürich.
 
 During my studies I have interned at Mozilla (*San Francisco, CA*), Facebook (*Seattle, WA & London, UK*), BitDefender (*Bucharest, RO*), Microsoft (*London, UK*) and Google (*Zürich, CH*).
-More recently, I have spent 4 months at Google Brain Zürich where I worked with Hartmut Maennel on out-of-distribution detection.
+More recently, I spent 4 months at Google Brain Zürich where I collaborated with Hartmut Maennel on out-of-distribution detection.
 
 My current interests revolve around various theoretical and applied aspects of
 representation learning and uncertainty estimation.
