@@ -1,4 +1,8 @@
 # My notes
+- Run `bundle exec jekyll serve` to run the server locally
+- Make changes on the `source` branch and build them with `./bin/cibuild`
+- Deploy the changes to the remote version with `./bin/deploy --user` (this builds the site, copies it to `master` and pushes it to the remote repo)
+
 - The link to the blog is currently disabled, see `_includes/header.html`.
 - I have moved to `_backlog_pages/` the pages that I do not currently use.
 Simply move them back to `_pages` in order for them to appear in the menu again.
