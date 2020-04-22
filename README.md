@@ -1,3 +1,9 @@
+# My notes
+- The link to the blog is currently disabled, see `_includes/header.html`.
+- I have moved to `_backlog_pages/` the pages that I do not currently use.
+Simply move them back to `_pages` in order for them to appear in the menu again.
+
+
 # al-folio
 
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
@@ -41,6 +47,12 @@ The optional flag `--user` tells it to deploy to `master` and use `source` for t
 Using `master` for deployment is a convention for [user and organization pages](https://help.github.com/articles/user-organization-and-project-pages/).
 
 **Note:** when deploying your user or organization page, make sure the `_config.yml` has `url` and `baseurl` fields as follows.
+
+In order to build the HTML files from markdown locally and preview the changes in
+the local browser (i.e. on localhost) run the following command:
+```bash
+$ ./bin/cibuild
+```
 
 ```
 url: # should be empty
