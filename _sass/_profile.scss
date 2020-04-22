@@ -3,6 +3,8 @@
         box-shadow: 0 0 5px $grey-color;
         width: 100%;
     }
+    padding-right: 5%;
+    padding-bottom: 1%;
 }
 .address {
     font-family: monospace;
@@ -40,4 +42,5 @@
     border-top: 1px solid $grey-color-light;
     margin-top: 50px;
     padding-top: 20px;
+    width: 100%
 }

@@ -2,9 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Fall 2020 - [Guarantees for Machine Learning](https://sml.inf.ethz.ch/gml20/syllabus.html), ETH Zürich
 
-Organize your courses by years, topics, or universities, however you like!
+Spring 2018 - [Natural Language Understanding](http://www.da.inf.ethz.ch/teaching/2018/NLU/), ETH Zürich
+
+Fall 2015 - Introduction to Computer Programming, Univ. Politechnica Bucharest
+
+Spring {2014, 2015, 2016} - Numerical Methods, Univ. Politechnica Bucharest
