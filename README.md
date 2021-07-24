@@ -1,7 +1,14 @@
 # My notes
+
+- You can run the server locally with `bundle exec jekyll serve`.
+- To deploy it I first need to build (`./bin/cibuild`) and then deploy it with `./bin/deploy --user` (which will push it to master and deploy it).
+
 - The link to the blog is currently disabled, see `_includes/header.html`.
 - I have moved to `_backlog_pages/` the pages that I do not currently use.
 Simply move them back to `_pages` in order for them to appear in the menu again.
+
+- To make changes to the bibliography style, change the `_layouts/bib.html` file (including adding new link types e.g. video, code etc).
+
 
 
 # al-folio

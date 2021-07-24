@@ -99,7 +99,7 @@ scholar:
 
   last_name: Țifrea
 
-  style: apa
+  style: ieee
   locale: en
 
   sort_by: year
