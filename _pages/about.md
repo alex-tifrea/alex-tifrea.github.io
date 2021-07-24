@@ -21,8 +21,8 @@ For my Master's degree, I was the recipient of a scholarship awarded by ETH Zür
 During my studies I have interned at Mozilla (*San Francisco, CA*), Facebook (*Seattle, WA & London, UK*), BitDefender (*Bucharest, RO*), Microsoft (*London, UK*) and Google (*Zürich, CH*).
 More recently, I spent 4 months at Google Brain Zürich where I collaborated with Hartmut Maennel on out-of-distribution detection.
 
-My current interests revolve around various theoretical and applied aspects of
-representation learning and uncertainty estimation.
+My current interests revolve around various theoretical and methodological aspects of
+robustness to distribution shifts, uncertainty estimation and representation learning.
 
 If you want to reach me you can write me at:
 
