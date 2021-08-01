@@ -99,6 +99,34 @@
   {% if entry.video %}
     [<a href="{{ entry.video }}" target="_blank">Video</a>]
   {% endif %}
+
+
+  <!-- Custom entries -->
+  {% if entry.aml %}
+    [<a href="{{ entry.aml }}" target="_blank">AML@ICML21</a>]
+  {% endif %}
+  {% if entry.poster_aml %}
+    [<a href="{{ entry.poster_aml | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Poster AML</a>]
+  {% endif %}
+  {% if entry.oppo %}
+    [<a href="{{ entry.oppo | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">OPPO@ICML21</a>]
+  {% endif %}
+  {% if entry.poster_oppo %}
+    [<a href="{{ entry.poster_oppo | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Poster OPPO</a>]
+  {% endif %}
+  {% if entry.udl %}
+    [<a href="{{entry.udl}}" target="_blank">UDL@ICML21</a>]
+  {% endif %}
+  {% if entry.poster_udl %}
+    [<a href="{{ entry.poster_udl | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Poster UDL</a>]
+  {% endif %}
+  {% if entry.imlh %}
+    [<a href="{{entry.imlh}}" target="_blank">IMLH@ICML21</a>]
+  {% endif %}
+  {% if entry.poster_imlh %}
+    [<a href="{{ entry.poster_imlh | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Poster IMLH</a>]
+  {% endif %}
+
   </span>
 
   <!-- Hidden abstract block -->

@@ -2,7 +2,7 @@
 
 - IMPORTANT: add all the new files to the commit!!!! Otherwise, when running the deploy command, they will be lost.
 
-- You can run the server locally with `bundle exec jekyll serve`.
+- You can run the server locally with `bundle exec jekyll serve` (you may need to run `source ~/.bashrc` first to setup the env variables).
 - To deploy it I first need to build (`./bin/cibuild`) and then deploy it with `./bin/deploy --user` (which will push it to master and deploy it).
 
 - The link to the blog is currently disabled, see `_includes/header.html`.
