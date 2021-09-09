@@ -1,5 +1,7 @@
 # My notes
 
+- make changes on the source branch
+
 - IMPORTANT: add all the new files to the commit!!!! Otherwise, when running the deploy command, they will be lost.
 
 - You can run the server locally with `bundle exec jekyll serve` (you may need to run `source ~/.bashrc` first to setup the env variables).
