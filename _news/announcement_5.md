@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2021-09-09 16:11:00-0400
+date: 2021-10-03 16:11:00-0400
 inline: true
 ---
 
-Our method for novelty detection will be presented as a *long oral* at [UNSURE@MICCAI](https://unsuremiccai.github.io/). 
+Our [paper](assets/pdf/erd_unsure.pdf) on novel disease detection has received the Best-Paper Runner-up award at [UNSURE@MICCAI](https://unsuremiccai.github.io/). 
 
