@@ -4,6 +4,8 @@ permalink: /teaching/
 title: teaching
 ---
 
+Spring 2022 - [Introduction to Machine Learning](https://las.inf.ethz.ch/teaching/introml-s22), ETH Zürich
+
 Fall 2021 - [Advanced Machine Learning](https://ml2.inf.ethz.ch/courses/aml/), ETH Zürich
 
 Spring 2021 - [Introduction to Machine Learning](https://las.inf.ethz.ch/teaching/introml-s21), ETH Zürich
