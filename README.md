@@ -13,6 +13,7 @@ Simply move them back to `_pages` in order for them to appear in the menu again.
 
 - To make changes to the bibliography style, change the `_layouts/bib.html` file (including adding new link types e.g. video, code etc).
 
+- For more information about how the bibliography is generated, check out [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar).
 
 
 # al-folio
