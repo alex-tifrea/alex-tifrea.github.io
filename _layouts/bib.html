@@ -123,6 +123,14 @@
   {% if entry.imlh %}
     [<a href="{{entry.imlh}}" target="_blank">IMLH@ICML21</a>]
   {% endif %}
+  {% if entry.unsure %}
+    [<a href="{{ entry.unsure | prepend: '/assets/pdf/' | prepend:
+      site.baseurl | prepend: site.url }}" target="_blank">UNSURE@MICCAI2021</a>]
+  {% endif %}
+  {% if entry.poster_unsure %}
+    [<a href="{{ entry.poster_unsure | prepend: '/assets/pdf/' | prepend:
+      site.baseurl | prepend: site.url }}" target="_blank">Poster UNSURE</a>]
+  {% endif %}
   {% if entry.poster_imlh %}
     [<a href="{{ entry.poster_imlh | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">Poster IMLH</a>]
   {% endif %}
