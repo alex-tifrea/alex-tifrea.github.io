@@ -26,4 +26,4 @@ robustness to distribution shifts, uncertainty estimation and representation lea
 
 If you want to reach me you can write me at:
 
-`<last name><first letter of the Latin alphabet> at inf dot ethz dot com`
+`<last name><first letter of the Latin alphabet> at inf dot ethz dot ch`
