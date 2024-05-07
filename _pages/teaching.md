@@ -6,15 +6,15 @@ title: other
 
 <h2>Talks</h2>
 
-Harvard University, March 2024 - hosted by Prof. Flavio Calmon
+**Harvard University**, March 2024 - hosted by **Prof. Flavio Calmon**
 
-Max-Planck Institute Tübingen, December 2023 - hosted by Amartya Sanyal
+**Max-Planck Institute Tübingen**, December 2023 - hosted by **Amartya Sanyal**
 
-Google Research, October 2023 - hosted by Flavien Prost and Ahmad Beirami
+**Google Research**, October 2023 - hosted by **Flavien Prost** and **Ahmad Beirami**
 
 <h2>Service</h2>
 
-Outstanding reviewer award at ICML 2022, NeurIPS 2022
+**Outstanding Reviewer** award at ICML 2022, NeurIPS 2022
 
 Reviewer at ICLR, ICML, NeurIPS, FAccT, AISTATS, UAI
 
