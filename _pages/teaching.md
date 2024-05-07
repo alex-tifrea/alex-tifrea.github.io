@@ -1,27 +1,35 @@
 ---
-layout: page
-permalink: /teaching/
-title: teaching
+layout: other_page
+permalink: /other/
+title: other
 ---
 
-Fall 2023 - [Advanced Machine Learning](https://ml2.inf.ethz.ch/courses/aml/), ETH Zürich
+<h2>Talks</h2>
 
-Spring 2023 - [Introduction to Machine Learning](https://las.inf.ethz.ch/teaching/introml-s23), ETH Zürich
+Harvard University, March 2024 - hosted by Prof. Flavio Calmon
 
-Fall 2022 - [Advanced Machine Learning](https://ml2.inf.ethz.ch/courses/aml/), ETH Zürich
+Max-Planck Institute Tübingen, December 2023 - hosted by Amartya Sanyal
 
-Spring 2022 - [Introduction to Machine Learning](https://las.inf.ethz.ch/teaching/introml-s22), ETH Zürich
+Google Research, October 2023 - hosted by Flavien Prost and Ahmad Beirami
 
-Fall 2021 - [Advanced Machine Learning](https://ml2.inf.ethz.ch/courses/aml/), ETH Zürich
+<h2>Service</h2>
 
-Spring 2021 - [Introduction to Machine Learning](https://las.inf.ethz.ch/teaching/introml-s21), ETH Zürich
+Outstanding reviewer award at ICML 2022, NeurIPS 2022
 
-Fall 2020 - [Advanced Machine Learning](https://ml2.inf.ethz.ch/courses/aml/), ETH Zürich
+Reviewer at ICLR, ICML, NeurIPS, FAccT, AISTATS, UAI
 
-Spring 2020 - [Guarantees for Machine Learning](https://sml.inf.ethz.ch/gml20/syllabus.html), ETH Zürich
+Lead workshop co-organizer: [Pitfalls of limited data and computation for Trustworthy ML](https://sites.google.com/view/trustml-unlimited/home), ICLR'23
 
-Spring 2018 - [Natural Language Understanding](http://www.da.inf.ethz.ch/teaching/2018/NLU/), ETH Zürich
+<h2>Teaching</h2>
 
-Fall 2015 - Introduction to Computer Programming, Univ. Politechnica Bucharest
+[Introduction to Machine Learning](https://las.inf.ethz.ch/teaching/introml-s24), ETH Zürich (2021, 2022, 2023, 2024)
 
-Spring {2014, 2015, 2016} - Numerical Methods, Univ. Politechnica Bucharest
+[Advanced Machine Learning](https://ml2.inf.ethz.ch/courses/aml/), ETH Zürich (2020, 2021, 2022, 2023)
+
+[Guarantees for Machine Learning](https://sml.inf.ethz.ch/gml20/syllabus.html), ETH Zürich (2020)
+
+[Natural Language Understanding](http://www.da.inf.ethz.ch/teaching/2018/NLU/), ETH Zürich (2018)
+
+Introduction to Computer Programming, Univ. Politechnica Bucharest (2015)
+
+Numerical Methods, Univ. Politechnica Bucharest (2014, 2015, 2016)
