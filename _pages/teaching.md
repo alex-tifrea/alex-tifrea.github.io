@@ -6,6 +6,8 @@ title: other
 
 <h2>Talks</h2>
 
+**AAAI 2025**, February 2025 - co-organized a tutorial titled [*Building trustworthy ML: The role of label quality and availability*](https://aaai.org/conference/aaai/aaai-25/tutorial-and-lab-list/#TH02) ([slides](../assets/pdf/aaai25_tutorial_slides.pdf)).
+
 **Harvard University**, March 2024 - hosted by **Prof. Flavio Calmon**
 
 **Max-Planck Institute Tübingen**, December 2023 - hosted by **Amartya Sanyal**

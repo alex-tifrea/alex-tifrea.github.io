@@ -25,6 +25,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 github_username: alex-tifrea # your GitHub user name
 twitter_username: alexandrutifrea # your Twitter handle
+# bsky_username: alext2.bsky.social # your BlueSky handle
 linkedin_username: alexandru-tifrea-b1b37887 # your LinkedIn user name
 scholar_userid: i7T1FUsAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
