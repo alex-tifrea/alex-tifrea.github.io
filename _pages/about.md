@@ -11,7 +11,7 @@ news: true
 social: true
 ---
 
-I am a Research Scientist at Google DeepMind currently working on developing
+I am a Senior Research Scientist at Google DeepMind currently working on developing
 better algorithms for large language model post-training. Prior to that,
 I obtained my PhD from the Department of Computer Science of ETH Zürich,
 working under the supervision of [Fanny Yang](http://fanny-yang.de) in the
